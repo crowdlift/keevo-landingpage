@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="127px" viewBox="0 0 123 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Drop-Downs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage_1279_C" transform="translate(-581.000000, -14501.000000)">
+            <g id="icon7" transform="translate(582.000000, 14502.000000)">
+                <polygon id="Fill-1" fill="#EBECE8" points="68.9134 0.638 68.9134 16.638 74.9134 13.638"></polygon>
+                <polygon id="Fill-2" fill="#EBECE8" points="81.9134 11.638 81.9134 49.638 103.9134 89.638 118.9134 80.638"></polygon>
+                <path d="M33.4133,103.9921 L33.4133,69.0251 L33.4133,103.9921 Z" id="Fill-3" fill="#000000"></path>
+                <path d="M33.4134,69.0257 L33.4134,103.9927" id="Stroke-4" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                <path d="M33.4133,125.638 L33.4133,110.653 L33.4133,125.638 Z" id="Fill-5" fill="#000000"></path>
+                <g id="Group-30" transform="translate(0.000000, 0.638000)" stroke="#313B44" stroke-linejoin="round" stroke-width="4">
+                    <path d="M33.4134,110.0146 L33.4134,124.9996" id="Stroke-6"></path>
+                    <path d="M22.5906,78.3779 L22.5906,70.0529 C22.5906,64.0749 27.4356,59.2299 33.4136,59.2299 C39.3906,59.2299 44.2366,64.0749 44.2366,70.0529 L44.2366,117.5069" id="Stroke-8"></path>
+                    <path d="M22.5906,85.8711 L22.5906,117.5071" id="Stroke-10"></path>
+                    <path d="M55.0594,70.4687 C55.0594,58.5147 45.3684,48.8227 33.4134,48.8227 C21.4584,48.8227 11.7674,58.5147 11.7674,70.4687 L11.7674,109.1817" id="Stroke-12"></path>
+                    <path d="M55.0594,79.2109 L55.0594,109.1819" id="Stroke-14"></path>
+                    <path d="M49.6331,42.3437 C59.3141,47.9497 65.8271,58.4207 65.8271,70.4127 L65.8271,98.7757" id="Stroke-16"></path>
+                    <path d="M0.9998,75.5146 L0.9998,70.4126 C0.9998,52.5116 15.5118,37.9996 33.4138,37.9996 C36.7698,37.9996 40.0068,38.5096 43.0518,39.4566" id="Stroke-18"></path>
+                    <path d="M0.9998,98.7754 L0.9998,83.3654" id="Stroke-20"></path>
+                    <polygon id="Stroke-22" points="119.0731 80.4639 104.1931 88.6849 65.5061 18.6609 80.3851 10.4409"></polygon>
+                    <polygon id="Stroke-24" points="76.4466 12.6162 69.4446 16.4852 62.6746 4.2302 69.6766 0.3622"></polygon>
+                    <polygon id="Stroke-26" points="118.887 97.7031 116.739 81.7531 106.527 87.3941"></polygon>
+                    <path d="M75.744,19.8594 L93.154,51.3704" id="Stroke-28"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

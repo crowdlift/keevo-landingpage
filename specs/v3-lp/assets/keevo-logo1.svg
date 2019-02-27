@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="30px" viewBox="0 0 117 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>keevo-logo1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0363157895 0.00819565217 7.35394737 0.00819565217 7.35394737 11.4978696 13.4822368 11.4978696 22.6749737 28.7326957 14.0953684 28.7326957 7.35394737 16.0937391 7.35394737 28.7326957 0.0363157895 28.7326957"></polygon>
+        <polygon id="path-3" points="20.6423824 17.2430217 17.0180294 28.7326957 9.513 28.7326957 0.132794118 0.00819565217 7.63720588 0.00819565217 13.2658235 17.2430217"></polygon>
+        <polygon id="path-5" points="4.16210526 0.00821052632 11.94 0.00821052632 8.12968421 11.5187368 0.357473684 11.5187368"></polygon>
+        <polygon id="path-7" points="0.45955 5.475 4.7372 0.0078 12.6347 0.0078 8.35705 5.475"></polygon>
+        <path d="M15.8855385,17.2430217 L7.16246154,17.2430217 L7.16246154,22.9875435 L15.8855385,22.9875435 L15.8855385,28.7326957 L0.308307692,28.7326957 L0.308307692,11.4978696 L15.8855385,11.4978696 L15.8855385,17.2430217 Z M0.308307692,5.75334783 L0.308307692,0.00819565217 L15.8855385,0.00819565217 L15.8855385,5.75334783 L0.308307692,5.75334783 Z" id="path-9"></path>
+        <path d="M0.512,11.4978696 L15.5122963,11.4978696 L15.5122963,17.2430217 L7.1122963,17.2430217 L7.1122963,22.9875435 L15.5122963,22.9875435 L15.5122963,28.7326957 L0.512,28.7326957 L0.512,11.4978696 Z M0.512,5.75334783 L0.512,0.00819565217 L15.5122963,0.00819565217 L15.5122963,5.75334783 L0.512,5.75334783 Z" id="path-11"></path>
+        <path d="M0.118125,17.719375 L8.018125,17.719375 C9.12625,20.323125 11.708125,22.14875 14.716875,22.14875 C18.73625,22.14875 21.994375,18.890625 21.994375,14.87125 C21.994375,10.851875 18.73625,7.59375 14.716875,7.59375 C11.708125,7.59375 9.12625,9.419375 8.018125,12.02375 L0.118125,12.02375 C1.446875,5.1725 7.4775,0 14.716875,0 C22.93,0 29.58875,6.658125 29.58875,14.87125 C29.58875,23.084375 22.93,29.743125 14.716875,29.743125 C7.4775,29.743125 1.446875,24.57 0.118125,17.719375 Z" id="path-13"></path>
+    </defs>
+    <g id="Drop-Downs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage_1279_C" transform="translate(-49.000000, -46.000000)">
+            <g id="keevo-logo1" transform="translate(49.000000, 46.000000)">
+                <g id="Group-3" transform="translate(0.000000, 1.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <polygon id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)" points="0.0363157895 28.7604348 22.6973684 28.7604348 22.6973684 -0.0630434783 0.0363157895 -0.0630434783"></polygon>
+                </g>
+                <g id="Group-6" transform="translate(60.000000, 1.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <polygon id="Fill-4" fill="#FFFFFF" mask="url(#mask-4)" points="0.0617647059 28.7604348 20.6664706 28.7604348 20.6664706 -0.0630434783 0.0617647059 -0.0630434783"></polygon>
+                </g>
+                <g id="Group-9" transform="translate(75.000000, 1.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Clip-8"></g>
+                    <polygon id="Fill-7" fill="#FFFFFF" mask="url(#mask-6)" points="0.290526316 11.5326316 11.9621053 11.5326316 11.9621053 -0.0631578947 0.290526316 -0.0631578947"></polygon>
+                </g>
+                <g id="Group-12" transform="translate(10.000000, 1.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Clip-11"></g>
+                    <polygon id="Fill-10" fill="#FFFFFF" mask="url(#mask-8)" points="0.403 5.484 12.649 5.484 12.649 -0.06 0.403 -0.06"></polygon>
+                </g>
+                <g id="Group-15" transform="translate(24.000000, 1.000000)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <g id="Clip-14"></g>
+                    <polygon id="Fill-13" fill="#FFFFFF" mask="url(#mask-10)" points="0.307692308 28.7604348 15.8892308 28.7604348 15.8892308 -0.0630434783 0.307692308 -0.0630434783"></polygon>
+                </g>
+                <g id="Group-18" transform="translate(43.000000, 1.000000)">
+                    <mask id="mask-12" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <g id="Clip-17"></g>
+                    <polygon id="Fill-16" fill="#FFFFFF" mask="url(#mask-12)" points="0.462222222 28.7604348 15.5377778 28.7604348 15.5377778 -0.0630434783 0.462222222 -0.0630434783"></polygon>
+                </g>
+                <g id="Group-21" transform="translate(87.000000, 0.000000)">
+                    <mask id="mask-14" fill="white">
+                        <use xlink:href="#path-13"></use>
+                    </mask>
+                    <g id="Clip-20"></g>
+                    <polygon id="Fill-19" fill="#FFFFFF" mask="url(#mask-14)" points="0.0875 29.8125 29.6375 29.8125 29.6375 -0.0375 0.0875 -0.0375"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

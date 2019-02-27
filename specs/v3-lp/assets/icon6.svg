@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="125px" viewBox="0 0 101 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 125 100.76 125 100.76 0 0 0"></polygon>
+    </defs>
+    <g id="Drop-Downs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage_1279_C" transform="translate(-205.000000, -14503.000000)">
+            <g id="icon6" transform="translate(205.000000, 14503.000000)">
+                <path d="M13.9996,16.127 L13.9996,52.704 C13.9996,82.474 31.2976,108.182 56.3806,120.386 C81.4626,108.182 98.7596,82.474 98.7596,52.704 L98.7596,18.127 L53.3806,3 L13.9996,16.127 Z" id="Fill-1" fill="#EBECE8"></path>
+                <path d="M98.7593,52.7041 C98.7593,84.7951 78.6653,112.1781 50.3793,123.0001 C22.0943,112.1781 1.9993,84.7951 1.9993,52.7041 L1.9993,18.1271 L50.3793,2.0001 L98.7593,18.1271 L98.7593,52.7041 Z" id="Stroke-3" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-6"></g>
+                <polygon id="Fill-5" fill="#FFFFFF" mask="url(#mask-2)" points="34.39 80.435 66.371 80.435 66.371 48.454 34.39 48.454"></polygon>
+                <polygon id="Fill-7" fill="#EBECE8" mask="url(#mask-2)" points="43.785 80.435 66.371 80.435 66.371 48.454 43.785 48.454"></polygon>
+                <polygon id="Stroke-8" stroke="#313B44" stroke-width="4" stroke-linejoin="round" mask="url(#mask-2)" points="34.39 80.435 66.371 80.435 66.371 48.454 34.39 48.454"></polygon>
+                <path d="M38.8667,48.7725 L38.8667,39.8175 C38.8667,33.4595 44.0207,28.3045 50.3797,28.3045 C56.7387,28.3045 61.8927,33.4595 61.8927,39.8175 L61.8927,48.7725" id="Stroke-9" stroke="#313B44" stroke-width="4" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                <path d="M52.8746,60.9297 C52.8746,59.5517 51.7576,58.4347 50.3796,58.4347 C49.0016,58.4347 47.8856,59.5517 47.8856,60.9297 C47.8856,61.8877 48.4306,62.7087 49.2226,63.1267 L48.1756,70.3917 L52.5846,70.3917 L51.5376,63.1267 C52.3296,62.7087 52.8746,61.8877 52.8746,60.9297" id="Fill-10" fill="#000000" mask="url(#mask-2)"></path>
+                <path d="M52.8746,60.9297 C52.8746,59.5517 51.7576,58.4347 50.3796,58.4347 C49.0016,58.4347 47.8856,59.5517 47.8856,60.9297 C47.8856,61.8877 48.4306,62.7087 49.2226,63.1267 L48.1756,70.3917 L52.5846,70.3917 L51.5376,63.1267 C52.3296,62.7087 52.8746,61.8877 52.8746,60.9297 Z" id="Stroke-11" stroke="#313B44" stroke-width="4" stroke-linejoin="round" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

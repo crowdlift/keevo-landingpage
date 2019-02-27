@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="124px" viewBox="0 0 124 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Drop-Downs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage_1279_C" transform="translate(-563.000000, -6219.000000)">
+            <g id="icon2" transform="translate(565.000000, 6221.000000)">
+                <path d="M88.8838,88.1416 C88.8838,92.8146 85.0608,96.6366 80.3878,96.6366 L47.0458,96.6366 C42.3728,96.6366 38.5498,92.8146 38.5498,88.1416 L38.5498,31.8226 C38.5498,27.1496 42.3728,23.3266 47.0458,23.3266 L80.3878,23.3266 C85.0608,23.3266 88.8838,27.1496 88.8838,31.8226 L88.8838,88.1416 Z" id="Fill-1" fill="#EBECE8"></path>
+                <path d="M88.8838,88.6367 C88.8838,93.0367 85.2838,96.6367 80.8838,96.6367 L38.0548,96.6367 C33.6548,96.6367 30.0548,93.0367 30.0548,88.6367 L30.0548,31.3257 C30.0548,26.9267 33.6548,23.3257 38.0548,23.3257 L80.8838,23.3257 C85.2838,23.3257 88.8838,26.9267 88.8838,31.3257 L88.8838,88.6367 Z" id="Stroke-3" stroke="#313B44" stroke-width="4"></path>
+                <path d="M41.8203,16.9912 L41.8203,31.4722" id="Stroke-5" stroke="#313B44" stroke-width="4"></path>
+                <path d="M53.5859,16.9912 L53.5859,31.4722" id="Stroke-7" stroke="#313B44" stroke-width="4"></path>
+                <path d="M65.3516,16.9912 L65.3516,31.4722" id="Stroke-9" stroke="#313B44" stroke-width="4"></path>
+                <path d="M77.1182,16.9912 L77.1182,31.4722" id="Stroke-11" stroke="#313B44" stroke-width="4"></path>
+                <path d="M42.2725,45.9531 L77.5705,45.9531" id="Stroke-13" stroke="#313B44" stroke-width="4"></path>
+                <path d="M42.2725,56.8145 L77.5705,56.8145" id="Stroke-15" stroke="#313B44" stroke-width="4"></path>
+                <path d="M42.2725,67.6748 L77.5705,67.6748" id="Stroke-17" stroke="#313B44" stroke-width="4"></path>
+                <path d="M42.2725,78.5361 L59.4685,78.5361" id="Stroke-19" stroke="#313B44" stroke-width="4"></path>
+                <path d="M120,60 C120,93.137 93.137,120 60,120 C26.863,120 0,93.137 0,60 C0,26.863 26.863,0 60,0 C93.137,0 120,26.863 120,60 Z" id="Stroke-21" stroke="#313B44" stroke-width="4"></path>
+                <path d="M18.1045,17.5732 L102.9575,102.4272" id="Stroke-23" stroke="#313B44" stroke-width="4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

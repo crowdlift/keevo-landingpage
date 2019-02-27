@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="126px" viewBox="0 0 124 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon10</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Drop-Downs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage_1279_C" transform="translate(-765.000000, -14989.000000)">
+            <g id="icon10" transform="translate(767.000000, 14990.000000)">
+                <path d="M55.5006,1.2476 C29.9576,3.7596 9.9996,25.2976 9.9996,51.5006 C9.9996,77.7036 29.9576,99.2416 55.5006,101.7536 C81.0446,99.2416 101.0016,77.7036 101.0016,51.5006 C101.0016,25.2976 81.0446,3.7596 55.5006,1.2476" id="Fill-1" fill="#EBECE8"></path>
+                <path d="M101.0015,51.5005 C101.0015,79.3915 78.3925,102.0015 50.5005,102.0015 C22.6095,102.0015 -0.0005,79.3915 -0.0005,51.5005 C-0.0005,23.6095 22.6095,0.9995 50.5005,0.9995 C78.3925,0.9995 101.0015,23.6095 101.0015,51.5005 Z" id="Stroke-3" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                <path d="M97.6969,92.0513 L117.9169,112.2713 C120.3219,114.6763 120.3219,118.5753 117.9169,120.9813 C115.5119,123.3863 111.6119,123.3863 109.2069,120.9813 L88.9869,100.7613 L97.6969,92.0513 Z" id="Stroke-5" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                <polyline id="Stroke-7" stroke="#313B44" stroke-width="4" stroke-linejoin="round" points="21.9762 56.316 32.9762 72.816 79.1782 28.815"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

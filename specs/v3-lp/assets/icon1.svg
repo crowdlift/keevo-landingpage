@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="124px" viewBox="0 0 124 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Drop-Downs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage_1279_C" transform="translate(-180.000000, -6217.000000)">
+            <g id="icon1" transform="translate(182.000000, 6219.000000)">
+                <path d="M67.9356,0.2949 C37.5896,3.2779 13.8796,28.8649 13.8796,59.9949 C13.8796,91.1249 37.5896,116.7129 67.9356,119.6959 C98.2816,116.7129 119.9916,91.1249 119.9916,59.9949 C119.9916,28.8649 98.2816,3.2779 67.9356,0.2949" id="Fill-1" fill="#EBECE8"></path>
+                <path d="M119.9913,59.9951 C119.9913,93.1301 93.1303,119.9911 59.9953,119.9911 C26.8613,119.9911 0.0003,93.1301 0.0003,59.9951 C0.0003,26.8601 26.8613,0.0001 59.9953,0.0001 C93.1303,0.0001 119.9913,26.8601 119.9913,59.9951 Z" id="Stroke-3" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                <path d="M22.0225,68.9502 C26.2835,83.5662 39.1065,94.5322 54.6995,96.0562" id="Stroke-5" stroke="#313B44" stroke-width="4"></path>
+                <polyline id="Stroke-7" stroke="#313B44" stroke-width="4" stroke-linejoin="round" points="83.607 83.8369 59.419 59.6479 60.023 32.0389"></polyline>
+                <path d="M88.9473,89.4003 L94.4723,94.9253" id="Stroke-9" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                <path d="M94.4722,23.0263 L88.7212,28.7773" id="Stroke-11" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                <path d="M109.3633,58.9755 L101.5243,58.9755" id="Stroke-13" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                <path d="M60.4439,9.0566 L60.4439,16.8956" id="Stroke-15" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                <path d="M60.4439,102.0566 L60.4439,109.8956" id="Stroke-17" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                <path d="M23.0225,42.4228 C25.2075,38.2208 29.6005,35.3518 34.6645,35.3518 C39.5175,35.3518 43.7545,37.9868 46.0225,41.9058" id="Stroke-19" stroke="#313B44" stroke-width="4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

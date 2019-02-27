@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="122px" height="123px" viewBox="0 0 122 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Drop-Downs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage_1279_C" transform="translate(-837.000000, -12914.000000)">
+            <g id="icon5" transform="translate(839.000000, 12914.000000)">
+                <polygon id="Fill-1" fill="#EBECE8" points="42.992 48 47.992 48 47.992 5 42.992 5"></polygon>
+                <g id="Group-28">
+                    <path d="M30.0796,69.1455 C17.5756,71.0705 7.9996,81.8765 7.9996,94.9195 C7.9996,107.9625 17.5756,118.7695 30.0796,120.6945 C42.5846,118.7695 52.1596,107.9625 52.1596,94.9195 C52.1596,81.8765 42.5846,71.0705 30.0796,69.1455" id="Fill-2" fill="#EBECE8"></path>
+                    <path d="M32.4781,5.4121 L54.2661,5.4121 C59.8201,5.4121 64.3231,9.9141 64.3231,15.4681 C64.3231,21.0211 59.8201,25.5231 54.2661,25.5231 L32.4781,25.5231" id="Stroke-4" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                    <path d="M55.6626,25.5234 C61.9876,25.5234 67.1156,30.6514 67.1156,36.9764 C67.1156,43.3014 61.9876,48.4284 55.6626,48.4284 L32.4776,48.4284" id="Stroke-6" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                    <path d="M38.5259,0 L38.5259,53.841" id="Stroke-8" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                    <path d="M48.2134,0 L48.2134,53.841" id="Stroke-10" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                    <polygon id="Fill-12" fill="#EBECE8" points="117.9917 75 102.8867 40.198 85.9917 79 97.9917 86"></polygon>
+                    <polygon id="Fill-14" fill="#EBECE8" points="114.9917 87 100.9917 109 89.9697 92.644 97.9917 97"></polygon>
+                    <polygon id="Stroke-16" stroke="#313B44" stroke-width="4" stroke-linejoin="round" points="117.8042 74.5146 97.8862 32.1986 77.9692 74.5146 97.8862 86.4746"></polygon>
+                    <polygon id="Stroke-18" stroke="#313B44" stroke-width="4" stroke-linejoin="round" points="117.8042 84.6436 97.8862 114.3116 77.9692 84.6436 97.8862 97.0626"></polygon>
+                    <path d="M52.1597,94.9199 C52.1597,109.3229 40.4827,120.9999 26.0797,120.9999 C11.6767,120.9999 -0.0003,109.3229 -0.0003,94.9199 C-0.0003,80.5169 11.6767,68.8399 26.0797,68.8399 C40.4827,68.8399 52.1597,80.5169 52.1597,94.9199 Z" id="Stroke-20" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-22" stroke="#313B44" stroke-width="4" stroke-linejoin="round" points="38.4546 107.6943 13.9716 107.6943 38.1876 82.1463 13.7056 82.1463"></polyline>
+                    <path d="M26.0796,82.1465 L26.0796,74.9605" id="Stroke-24" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                    <path d="M26.0796,115.1455 L26.0796,107.9595" id="Stroke-26" stroke="#313B44" stroke-width="4" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
